@@ -1,4 +1,4 @@
-# account-service
+# account-service 🪙
 스프링 프레임워크를 활용한 은행 계좌 이용 서비스
 
 ## 프로젝트 소개
