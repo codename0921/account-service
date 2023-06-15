@@ -1,1 +1,1 @@
-# fintech-project
+# account-service
